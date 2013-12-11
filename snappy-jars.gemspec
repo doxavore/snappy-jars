@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name          = "snappy-jars"
-  gem.version       = "1.1.0.1"
+  gem.version       = "1.1.0.1.2"
   gem.platform      = "java"
   gem.homepage      = "https://github.com/doxavore/snappy-jars"
   gem.authors       = ["Doug Mayer"]
